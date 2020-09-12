@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="/">
+    <file>MUBAN/play1.png</file>
+    <file>MUBAN/play2.png</file>
+    <file>MUBAN/play3.png</file>
+    <file>MUBAN/putting.png</file>
+    <file>MUBAN/select.png</file>
+    <file>MUBAN/BG.png</file>
+    <file>MUBAN/muban.qrc</file>
+  </qresource>
+</RCC>
